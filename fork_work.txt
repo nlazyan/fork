@@ -1,3 +1,3 @@
 // in this file I'm going to explain how to work with forks
 Steps
-1. Find repo you want to fork, on up right side click on fork
+1. Find repo you want to fork, on the top right side click on Fork

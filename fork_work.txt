@@ -3,3 +3,4 @@
 Քայլեր
 
 1. Գտնել ռեպոն, վերևի աջ մաս սեղմել fork
+2. Պետք է կլոնավորել քո արած fork-ը(in git bush  go to your directory, then do- git clone URL(this url is your fork repository url- go to your GitHub account fork repository, click on Clone or download green button, then copy url))

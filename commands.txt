@@ -1,0 +1,4 @@
+Commands steps
+
+1. Fork repository
+2. Clone your fork - in Git Bush do - git clone URL(where url is your fork url)

@@ -1,8 +1,9 @@
 // in this file I'm going to explain how to work with forks
 
-Քայլեր
+Steps
 
-1. Գտնել ռեպոն, վերևի աջ մաս սեղմել fork
+1. Find repo you want to fork, on the top right side click on Fork
 2. Պետք է կլոնավորել քո արած fork-ը(in git bush  go to your directory, then do- git clone URL(this url is your fork repository url- go to your GitHub account fork repository, click on Clone or download green button, then copy url))
 3. In GitHub we will give permission that person from whom we fork repository(since I want his/her to be able to collaborate with me, he/she'll neew permission to push to this repository).(All this do in GitHub) To do this go to Settings, click Collaborator, and then add his/her GitHub user name with the nlazyan(here you can anyone who would like to be able push to your repository). Click Ass Collaborator button.
 4. In Git Bush - git fetch origin (now my origin/master will contain nlazyan's changes, which I can see by running git status).
+
